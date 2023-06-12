@@ -6,7 +6,7 @@
 ## 公式サイト
 - [@tailwindcss/typography - Tailwind CSS](https://tailwindcss.com/docs/typography-plugin)
 
-## 日本語訳
+## 公式サイトの日本語訳
 - [機械翻訳](https://da-wake-github.github.io/tailwindcss-typography-sample/docs/ja.html)
 
 ## 参考サイト
