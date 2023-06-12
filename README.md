@@ -1,7 +1,7 @@
 # tailwindcss/typography
 
 ## GitHub Pages
-- [サンプルページ](https://da-wake-github.github.io/tailwindcss-typography)
+- [サンプルページ](https://da-wake-github.github.io/tailwindcss-typography-sample)
 
 ## 公式サイト
 - [@tailwindcss/typography - Tailwind CSS](https://tailwindcss.com/docs/typography-plugin)
