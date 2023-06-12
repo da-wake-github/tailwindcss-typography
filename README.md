@@ -7,7 +7,7 @@
 - [@tailwindcss/typography - Tailwind CSS](https://tailwindcss.com/docs/typography-plugin)
 
 ## 公式サイトの日本語訳
-- [機械翻訳](https://da-wake-github.github.io/tailwindcss-typography-sample/docs/ja.html)
+- [機械翻訳](https://da-wake-github.github.io/tailwindcss-typography-sample/docs/typography-plugin-ja.html)
 
 ## 参考サイト
 - ["tailwindTYPOGRAPHY"で取り急ぎイイ感じなスタイルを適用する](https://zenn.dev/datchlive/articles/50e556d27d68b4)
