@@ -1,4 +1,4 @@
-# tailwindcss/typography
+# tailwindcss-typography-sample
 
 ## GitHub Pages
 - [サンプルページ](https://da-wake-github.github.io/tailwindcss-typography-sample)
