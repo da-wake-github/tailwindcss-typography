@@ -1,0 +1,6 @@
+@tailwind base;
+article {
+  margin-bottom: 2rem;
+}
+@tailwind components;
+@tailwind utilities;
