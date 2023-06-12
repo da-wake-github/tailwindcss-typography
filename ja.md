@@ -4,7 +4,7 @@
 
 制御できない HTML の美しい文字体裁のデフォルト。
 
-公式の Tailwind CSS Typography プラグインは、Markdown からレンダリングされた HTML や CMS から取得された HTML など、制御していないバニラ HTML に美しいタイポグラフィーのデフォルトを追加するために使用できる散文クラスのセットを提供します。
+公式の Tailwind CSS Typography プラグインは、Markdown からレンダリングされた HTML や CMS から取得された HTML など、制御していないバニラ HTML に美しいタイポグラフィーのデフォルトを追加するために使用できるproseクラスのセットを提供します。
 
 ```html
 <article class="prose lg:prose-xl">
@@ -38,7 +38,7 @@ module.exports = {
 
 ## 基本的な使い方
 
-これで、散文クラスを使用して、標準的な HTML に賢明なタイポグラフィ スタイルを追加できるようになりました。
+これで、proseクラスを使用して、標準的な HTML に賢明なタイポグラフィ スタイルを追加できるようになりました。
 
 ```html
 <article class="prose lg:prose-xl">
@@ -76,9 +76,9 @@ module.exports = {
 |prose-neutral|Neutral|
 |prose-stone|Stone|
 
-修飾子クラスは、[マルチクラス修飾子パターン](https://nicolasgallagher.com/about-html-semantics-front-end-architecture/#component-modifiers)とともに使用するように設計されており、基本散文クラスと組み合わせて使用する必要があります。
+修飾子クラスは、[マルチクラス修飾子パターン](https://nicolasgallagher.com/about-html-semantics-front-end-architecture/#component-modifiers)とともに使用するように設計されており、基本proseクラスと組み合わせて使用する必要があります。
 
-グレースケール修飾子を追加するときは、必ず散文クラスを含めてください
+グレースケール修飾子を追加するときは、必ずproseクラスを含めてください
 
 ```html
 <article class="prose prose-stone">
@@ -118,9 +118,9 @@ module.exports = {
 
 提供されるサイズ修飾子のすべては、フォント サイズ、見出しの間隔、コード ブロックのパディングなどの関係を含め、可能な限り美しく見えるようにプロのデザイナーによって手作業で調整されています。
 
-サイズ修飾子は、[マルチクラス修飾子パターン](https://nicolasgallagher.com/about-html-semantics-front-end-architecture/#component-modifiers)で使用するように設計されており、基本散文クラスと組み合わせて使用する必要があります。
+サイズ修飾子は、[マルチクラス修飾子パターン](https://nicolasgallagher.com/about-html-semantics-front-end-architecture/#component-modifiers)で使用するように設計されており、基本proseクラスと組み合わせて使用する必要があります。
 
-サイズ修飾子を追加するときは、必ず散文クラスを含めてください
+サイズ修飾子を追加するときは、必ずproseクラスを含めてください
 
 ```html
 <article class="prose prose-lg">
@@ -218,7 +218,7 @@ module.exports = {
 
 ## タイポグラフィスタイルを元に戻す
 
-散文スタイルを継承すべきではないコンテンツにマークアップのブロックが埋め込まれている場合は、非散文クラスを使用してサンドボックス化します。
+散文スタイルを継承すべきではないコンテンツにマークアップのブロックが埋め込まれている場合は、非proseクラスを使用してサンドボックス化します。
 
 ```html
 <article class="prose">
