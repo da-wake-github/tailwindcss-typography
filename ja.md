@@ -14,7 +14,7 @@
 
 実際の動作を確認するには、Tailwind Play の[ライブ デモ](https://play.tailwindcss.com/uj1vGACRJA?layout=preview)をチェックしてください。
 
-##インストール
+## インストール
 
 npm からプラグインをインストールします。
 
